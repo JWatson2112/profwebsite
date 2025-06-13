@@ -162,7 +162,6 @@ section{
 }
 
 
-/* About */
 
 .title{
     width: 100%;
@@ -342,7 +341,7 @@ section{
     margin-top: 40px;
 }
 
-.resume-download {
+.resume-download, .linkedin-button {
     padding: 12px 24px;
     background-color: #007bff;
     color: #fff;
@@ -352,10 +351,9 @@ section{
     transition: background-color 0.3s ease;
 }
 
-.resume-download:hover {
+.resume-download:hover, .linkedin-button:hover {
     background-color: #0056b3;
 }
-
 
 
 .contact .content{
