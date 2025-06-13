@@ -65,12 +65,12 @@ section{
 }
 
 .main{
-    position: relative;
+    position: static;
     width: 100%;
     height: 100vh;
     display:flex;
     align-items: center;
-    background-image: url(/imgs/profhead1.PNG);
+    background-image: url(/imgs/headshot.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
